@@ -1,0 +1,13 @@
+{
+  "name": "Extension Packet",
+  "description": "I created a shortcut for all the web syafes I clan.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "48": "img/icon.png"
+  },  
+  "action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "education.html"
+  }
+}
