@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-🪄 Frontend Extension
+🪄 Extension PAcket
 </h1>
 
 <h3 align="center">
@@ -37,7 +37,16 @@ Here are some of the key features of this project:
 <h2 style="color: #0081a7;"> Screenshots </h2>
 
 
-![Screenshot 2023-07-28 182623 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/9402479c-517f-432e-bf5e-7ecbfc668363) ![Screenshot 2023-07-28 183026 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/fe105756-561a-44c3-b818-3af233a8a6a3) ![Screenshot 2023-07-28 182643 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/235b03ef-d343-4b0e-96c2-f4b0f35ee536) ![Screenshot 2023-07-28 182611 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/7cd89674-3341-4818-9235-99f17ad29a1b) ![Screenshot 2023-07-28 182600 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/b4418b31-1dd0-4765-9cb3-b2e06f7dde10) ![Screenshot 2023-07-28 183017 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/e78ce26e-5410-4ad6-b197-f8bd85236dcc) ![Screenshot 2023-07-28 182507 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/73e9d66e-cf83-4881-9999-7306bb3fb3f7) ![Screenshot 2023-07-28 182447 (Custom)](https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/50bb1cc0-0d8a-4778-b1d0-90228a443451)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/9402479c-517f-432e-bf5e-7ecbfc668363" alt="Screenshot 1" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/fe105756-561a-44c3-b818-3af233a8a6a3" alt="Screenshot 2" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/235b03ef-d343-4b0e-96c2-f4b0f35ee536" alt="Screenshot 3" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/7cd89674-3341-4818-9235-99f17ad29a1b" alt="Screenshot 4" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/b4418b31-1dd0-4765-9cb3-b2e06f7dde10" alt="Screenshot 5" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/e78ce26e-5410-4ad6-b197-f8bd85236dcc" alt="Screenshot 4" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/73e9d66e-cf83-4881-9999-7306bb3fb3f7" alt="Screenshot 5" width="200" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/algorithms_dataStructures/assets/114583209/50bb1cc0-0d8a-4778-b1d0-90228a443451" alt="Screenshot 6" width="200" />
+</div>
 
 <h2 style="color: #0081a7;"> For Users</h2>
 
